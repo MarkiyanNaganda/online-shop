@@ -1,58 +1,58 @@
 [
     {
         "id": "1",
-        "title": "Large drone",
-        "image": "drone-large.jpg",
-        "description": "Large drone for most critical missions. Can carry load.",
-        "price": 499.99
+        "title": "necktie",
+        "image": "halst.JPG",
+        "description": "A large selection of ties.",
+        "price": 50
     },
     {
         "id": "2",
-        "title": "Small drone",
-        "image": "drone-small.jpg",
-        "description": "Small drone. Can fly undetected.",
-        "price": 199.99
+        "title": "Gucci Backpack",
+        "image": "gucci.jpg",
+        "description": "fashionable and comfortable with Gucci Backpack.",
+        "price": 240
     },
     {
         "id": "3",
-        "title": "Blue drone",
-        "image": "drone-blue.jpg",
-        "description": "Nice-looking drone in blue color. Has built-in HD camera",
-        "price": 249.99
+        "title": "Philipp Plein strap",
+        "image": "philip.jpg",
+        "description": "Great accessory from Philipp Plein",
+        "price": 130
     },
     {
         "id": "4",
-        "title": "Red drone",
-        "image": "drone-red.jpg",
-        "description": "Nice-looking drone in red color",
-        "price": 229.99
+        "title": "Ulysse Nardin ",
+        "image": "ulis.jpg",
+        "description": "ULYSSE NARDIN MAXI MARINE",
+        "price": 120.5
     },
     {
         "id": "5",
-        "title": "Black gyroboard",
-        "image": "gyroboard-black.jpg",
-        "description": "Black gyroboard to match your style",
-        "price": 729.99
+        "title": "Ulysse Nardin ",
+        "image": "nardin.jpg",
+        "description": "Ulysse Nardin SK-2036-0010",
+        "price": 130.5
     },
     {
         "id": "6",
-        "title": "White gyroboard",
-        "image": "gyroboard-white.jpg",
-        "description": "White gyroboard with blue lights",
-        "price": 829.99
+        "title": "Pepe Jeans",
+        "image": "papa.JPG",
+        "description": "size:M-XXL",
+        "price": 95
     },
     {
         "id": "7",
-        "title": "Tesla Model X",
-        "image": "tesla-x.jpg",
-        "description": "Best crossover in the World",
-        "price": 99999.99
+        "title": "Off White cap",
+        "image": "cap.JPG",
+        "description": "cashew cap from Off White",
+        "price": 39.9
     },
     {
         "id": "8",
-        "title": "Tesla Roadster",
-        "image": "tesla-roadster.jpg",
-        "description": "Best sports car in the World",
-        "price": 249999.99
+        "title": "Jacob Cohen ",
+        "image": "offgince.JPG",
+        "description": "size:M-XXL",
+        "price": 125
     }
 ]
