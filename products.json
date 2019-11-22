@@ -4,7 +4,7 @@
         "title": "necktie",
         "image": "halst.JPG",
         "description": "A large selection of ties.",
-        "price": 50
+        "price": 25
     },
     {
         "id": "2",
@@ -18,41 +18,41 @@
         "title": "Philipp Plein strap",
         "image": "philip.jpg",
         "description": "Great accessory from Philipp Plein",
-        "price": 130
+        "price": 70
     },
     {
         "id": "4",
         "title": "Ulysse Nardin ",
         "image": "ulis.jpg",
         "description": "ULYSSE NARDIN MAXI MARINE",
-        "price": 120.5
+        "price": 220.5
     },
     {
         "id": "5",
         "title": "Ulysse Nardin ",
         "image": "nardin.jpg",
         "description": "Ulysse Nardin SK-2036-0010",
-        "price": 130.5
+        "price": 230.5
     },
     {
         "id": "6",
         "title": "Pepe Jeans",
         "image": "papa.JPG",
         "description": "size:M-XXL",
-        "price": 95
+        "price": 70
     },
     {
         "id": "7",
         "title": "Off White cap",
         "image": "cap.JPG",
         "description": "cashew cap from Off White",
-        "price": 39.9
+        "price": 30
     },
     {
         "id": "8",
         "title": "Jacob Cohen ",
         "image": "offgince.JPG",
         "description": "size:M-XXL",
-        "price": 125
+        "price": 100
     }
 ]
